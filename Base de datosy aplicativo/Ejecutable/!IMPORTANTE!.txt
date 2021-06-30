@@ -1,0 +1,22 @@
+
+******************************************************************************************
+******************************************************************************************
+
+
+Antes de abrir el archivo  tener en cuenta:
+
+1. La base de datos CENTISEG debe estar creada.
+2. Tener abierto el puerto 3306.
+3. Los datos de la cadena de conexion en JAVA son:
+    String url="jdbc:mysql://localhost:3306/CENTISEG";
+    String login="root";
+    String clave="";
+4. Por lo tanto el usuario de MySQL debe tener de Login="root" y no tener clave.
+5. Para acceder al sistema esta directamente relacionado con la tabla USUARIO de MySQL
+	Usuario: admin
+	Password: 123
+
+
+
+******************************************************************************************
+******************************************************************************************
